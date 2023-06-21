@@ -1,0 +1,18 @@
+AIM: Implementing software version control.
+DESCRIPTION:
+Installation of Git:
+STEP-1: Download Git from Google.
+STEP-2: Go to the downloaded location and configure the Git in the system. STEP-3: Now install the Git.
+STEP-4: Open command prompt and type “git” over there. Then it shows that git is downloaded that is in the command prompt we get the version of it. Hence, we get the download status.
+Creation of account in GitHub:
+	Open GitHub in Google.
+	Click on the link “GitHub: Where the world builds software. GitHub”
+	Go to sign-in.
+	If you are having an account, enter username /email address and password
+	If you are not having an account, click on create an account.
+	Now click on sign in. You get the account with profile.
+	In that account on the right-side top there is a ‘+’ symbol and click on that.
+	In that click on new repository.
+	Now, give the repository name.
+	Then, we have two options public and private, choosing one of them is of your choice.
+	At last, click on the create repository.
